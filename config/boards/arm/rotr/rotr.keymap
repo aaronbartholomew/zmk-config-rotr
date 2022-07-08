@@ -26,7 +26,7 @@
 		};
 		two {
 			//Brush | Eraser | Sample 
-			bindings = <&kp E &lt 4 LALT &kp B>;
+			bindings = <&kp LALT &lt 4 E &kp B>;
 			sensor-bindings = <&inc_dec_kp RBKT LBKT>;
 		};
 		three {
